@@ -2,8 +2,12 @@
 文字起こし
 
 ## リポジトリの目的
+リポジトリの作成
+送られてきたpull requestのマージ
 
 ## 必要なモジュール
+OpenAI Whisper
+
 
 ## 実行手順
 1. recording.pyを実行
