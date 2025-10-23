@@ -1,6 +1,7 @@
 # oop2-2025-04-G18
 文字起こし
 
+## ファイル構成
 - oop2-2025-04-G18
 	- output
 		- recording.wav ffmpegで録音した音声データ
@@ -12,7 +13,7 @@
 	- save.py
 
 
-出力例
+## `transcrioption_list.csv`の出力例
 
 |日付|時刻|文字起こし内容|
 |---|---|---|
